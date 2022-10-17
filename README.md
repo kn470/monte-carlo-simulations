@@ -7,4 +7,4 @@ the second is a Monte Carlo simulation, attempting to estimate the value of pi. 
 
 the third is a Monte Carlo simulation of the Monty Hall game show problem. Running the script will give the number of wins if you stick and if you switch. It will also give a graph of the the overall probability of winning after a certain number of trials, for both sticking and switching
 
-
+the fourth is a Monte Carlo simulation of Buffon's Needle problem, which in the end gives an estimate for pi. Running the script will give the final extracted value of pi along with a graph of how the extracted value changed with increasing iterations
